@@ -1,6 +1,6 @@
 # DB-Gpt
 
-Official github : https://github.com/eosphoros-ai/DB-GPT#installation
+Inspired by : https://github.com/eosphoros-ai/DB-GPT#installation
 
 1.
 ![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0001](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/e05f4950-bdd1-48fb-8381-5ff8312c260b)
