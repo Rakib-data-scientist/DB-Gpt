@@ -1,30 +1,33 @@
 # DB-Gpt
 
-Inspired by : https://github.com/eosphoros-ai/DB-GPT#installation
-
 1.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0001](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/e05f4950-bdd1-48fb-8381-5ff8312c260b)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0001](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/00b1621d-9ee0-4d06-a539-0b06e8b2663f)
 2.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0002](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/28066c54-b422-447f-86cd-5d1103425e4f)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0002](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/7b86b379-e85c-4c3f-bb83-31d5078cdb49)
 3.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0003](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/ddaa0fc3-cc27-4a79-9dc1-1da6285bc81d)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0003](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/43e89415-0bbe-418f-abc5-69da086fb21c)
 4.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0004](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/697e765c-a0d0-457e-8048-8ed5e63d7f7a)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0004](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/7677fa05-d6b7-4a48-96ac-da98f6ae772b)
 5.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0005](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/e7682da2-dbb8-46c0-8171-9f77c6169414)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0005](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/d0f73e08-9912-49c8-8f00-e0ba71e8ff6c)
 6.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0006](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/46c415f3-95e5-49d9-8a0a-1655f0d6ea0a)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0006](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/3820a7d7-287b-4903-b659-acd075e0aada)
 7.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0007](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/b363ae1f-0d97-43a9-8274-ed788a3a92ee)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0007](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/b76f565e-2006-4ea2-a41a-e9a751dd9986)
 8.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0008](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/eecfe2c5-713b-44d2-bbd7-c5fe009be937)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0008](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/d8b00af3-e892-4804-ad09-99de4de04611)
 9.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0009](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/6f732f7c-5bb8-4101-8790-7143f74c3a63)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0009](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/2708fc6e-44af-43f7-90f6-676fe5a31eeb)
 10.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0010](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/a4cb89ad-03cf-4717-9851-7a8ebf92cf06)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0010](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/5616e45b-0007-4e62-b24c-1dd0bc731bd4)
 11.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0011](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/cef72628-9b71-4c01-934b-0e43ac51b485)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0011](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/494886dd-b969-445f-b429-07eb879ed6a3)
 12.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0012](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/328946c4-3313-4372-a1fb-add63250594e)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0012](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/c16494a2-db97-4bae-baa2-159adcdedb92)
 13.
-![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0013](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/90661b4d-c160-485f-9e82-9463e93fe680)
+![DB-GPT-A-Game-Changer-in-Database-Interaction_page-0013](https://github.com/Rakib-data-scientist/DB-Gpt/assets/137823730/9827a4bc-2823-40e9-81e0-245792fb11cc)
+
+
+
+* Inspired by : https://github.com/eosphoros-ai/DB-GPT#installation
+
